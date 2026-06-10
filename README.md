@@ -36,3 +36,7 @@ data/following.json
 
 ```bash
 python tracker.py
+
+Results saved in:
+
+output/not_following_back.csv
